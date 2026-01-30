@@ -1,0 +1,29 @@
+.main{
+    margin-top:50px;
+}
+.logo-img {
+     
+      display:block;
+      width:300;
+      margin-bottom:20px;
+      margin-left:auto;
+      margin-right:auto;
+}
+.input{
+       display:block;
+      width: 400px;
+      margin-left:auto;
+      margin-right:auto;
+}
+/*.green{
+      background:green;
+      height:100px;
+}
+.yellow{
+         background:yellow;
+          height:100px;
+}
+.red{
+         background:red;
+         height:100px;
+}*/
